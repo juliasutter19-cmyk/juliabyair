@@ -5,6 +5,13 @@ import SectionWrapper from './SectionWrapper'
 
 const REVIEWS = [
   {
+    name: 'Adam Zhu',
+    avatar: 'AZ',
+    rating: 5,
+    quote:
+      "Julia was exceptional as a flight instructor and helped me go from zero flying experience to passing my PPL checkride with ease within 3 months. She’s dedicated, friendly, and a true professional with sharp attention to detail and impeccable instructing and decision-making skills. From my first discovery flight with her, she gave me full reign over the flight controls and radios, allowing me to develop a feel for the airplane early on and start building confidence. She took detailed notes during lessons and debriefed with me after every flight to identify areas for improvement. Through her ground lessons, I gained in-depth knowledge of aircraft systems, flight physics, weather theory, and risk management. Her instruction emphasized building fundamental understanding and sound aeronautical judgement, beyond what’s required to pass a checkride so I can be a safer and better pilot overall. She stayed very patient with me when I struggled to master landings and gave helpful feedback and guidance on the controls. Finally while prepping for my checkride, she held my flying to a high standard and challenged me with thorough and detailed knowledge tests on the ground so I was well-equipped and confident going into my exam. Thanks to Julia, I am now a private pilot and I cannot recommend her enough as an instructor!",
+  },
+  {
     name: 'Odilia Pablo',
     avatar: 'OP',
     rating: 5,
